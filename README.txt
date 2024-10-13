@@ -1,0 +1,1 @@
+this i a git project to learn to work with git
